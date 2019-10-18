@@ -6,7 +6,7 @@ function App() {
 	return (
 		<div className="App">
 			<article className="App-body">
-				<h1>Random Name Generator</h1>
+				<h1>Random Anime Name Generator</h1>
 				<NameGenerator />
 			</article>
 		</div>
