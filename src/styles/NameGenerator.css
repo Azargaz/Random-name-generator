@@ -1,0 +1,12 @@
+.Button {
+    background: #1f2229;
+    border: #16181d solid 1px;
+    color: #dddddd;
+    font-size: calc(0.5rem + 1vmin);
+    padding: 0.5vh 1vw;
+}
+
+.Button:hover {
+    background: #16181d;
+    color: #dbdbdb;
+}

@@ -1,12 +1,14 @@
 import React from 'react';
 import 'styles/App.css';
+import NameGenerator from './NameGenerator';
 
 function App() {
 	return (
 		<div className="App">
-			<header className="App-header">
+			<article className="App-body">
 				<h1>Random Name Generator</h1>
-			</header>
+				<NameGenerator />
+			</article>
 		</div>
 	);
 }
